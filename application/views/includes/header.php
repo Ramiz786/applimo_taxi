@@ -28,8 +28,10 @@
     <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/header.css">
     <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/slider.css">
     <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/blog.css">
-    <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/main.css">
+    <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/main.css?<?php echo rand(111,222); ?>">
     <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/responsive.css">
+    <link rel="stylesheet" href="<?php echo base_url('assets/plugins/toastr-master/toastr.css'); ?>">
+
 </head>
 
 <body>
@@ -239,7 +241,7 @@
                 <li>
                     <span>You can find us at:</span><?php echo WEBSITE_ADDRESS ?>
                 </li>
-                <li><span>Email now:</span><a href="mailto:<?php echo WEBSITE_EMAIL ?>" style="color: #fff;" class="__cf_email__" data-cfemail=""><?php echo WEBSITE_NUMBER ?></a></li>
+                <li><span>Email now:</span><a href="mailto:<?php echo WEBSITE_EMAIL ?>" style="color: #fff;" class="__cf_email__" data-cfemail=""><?php echo WEBSITE_EMAIL ?></a></li>
             </ul>
         </div>
     </div>

@@ -144,7 +144,7 @@
         <div class="copyright-wrap">
                 <div class="container">
                         <p>© <span id="currentYear"></span>
-                                DynamicLayers All Rights
+                                <?php echo WEBSITE_NAME ?> All Rights
                                 Reserved.</p>
                 </div>
         </div>
@@ -174,8 +174,11 @@
 <script src="<?php echo BASE_URL; ?>assets/js/vendor/venobox.min.js"></script>
 <script src="<?php echo BASE_URL; ?>assets/js/vendor/smooth-scroll.js"></script>
 <script src="<?php echo BASE_URL; ?>assets/js/vendor/wow.min.js"></script>
-<script src="<?php echo BASE_URL; ?>assets/js/book-ride.js"></script>
+<!-- <script src="<?php echo BASE_URL; ?>assets/js/book-ride.js"></script> -->
 <script src="<?php echo BASE_URL; ?>assets/js/main.js"></script>
+<script src="<?php echo base_url(); ?>assets/plugins/toastr-master/toastr.js" type="text/javascript"></script>
+<script src="<?php echo base_url(); ?>assets/js/custom-for-all.js?<?php echo rand(111,222); ?>"></script>
+
 <script>
         var BASE_URL = '<?php echo BASE_URL; ?>'
 </script>

@@ -50,7 +50,7 @@
                         </div>
                         <div class="col-md-6">
                                 <div class="contact-form">
-                                        <form action="https://html.dynamiclayers.net/dl/ridek/contact.php" method="post" id="ajax_contact" class="form-horizontal">
+                                        <form action="<?php echo base_url('contact-us/submit-form') ?>" method="post" id="" class="form-horizontal default_form">
                                                 <div class="contact-title">
                                                         <h2>Contact
                                                                 With
