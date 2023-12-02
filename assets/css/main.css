@@ -2137,7 +2137,7 @@ textarea:-ms-input-placeholder {
 }
 
 .footer-mid-wrap:before {
-    background-color:#222222c4 !important;
+    background-color: #222222e3 !important;
     background-image: url(../img/bg-1.png);
     background-size: 100%;
     background-position: bottom center;
