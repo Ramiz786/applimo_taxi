@@ -26,6 +26,7 @@
         
         <div class="z-index-common" data-pos-for=".footer-wrapper" data-sec-pos="bottom-half" style="margin-bottom: -70px;margin-top:-60px;">
                 <div class="container custom_container">
+                        <!-- <div class="contact-card background-image" style="background-image: url(<?php echo BASE_URL ?>assets/img/pattern_bg_3.png);"> -->
                         <div class="contact-card background-image" style="background-image: url(<?php echo BASE_URL ?>assets/img/pattern_bg_3.png);">
                                 <div class="info-card style3">
                                         <div class="info-card_icon"><i class="las la-envelope"></i></div>

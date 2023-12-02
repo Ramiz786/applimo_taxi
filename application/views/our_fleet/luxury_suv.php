@@ -4,7 +4,7 @@
                 <div class="page-header-info">
                         <h4>Our Limo Lists</h4>
                         <h2>Feel your journey <br> with <span>American Platinum Limousine!</span></h2>
-                        <p>Everything your taxi business <br>needs is already here! </p>
+                        <p>Luxury Cars For Any Occasions </p>
                 </div>
         </div>
 </section>
@@ -30,13 +30,13 @@
                                 </div>
                             </div>
                             <div class="pricing-head">
-                                <h3><a href="<?php echo base_url('book-taxi') ?>">Cadillac Escalade</a></h3>
+                                <h3><a href="<?php echo base_url('book-taxi?type=luxury-suv') ?>">Cadillac Escalade</a></h3>
                                 <!--<span class="location">Chicago</span>-->
                             </div>
                             <ul class="pricing-list">
                                 <li>Luggages: <span>5</span></li>
                                 <li>Passengers: <span>5</span> </li>
-                                <li><a href="<?php echo base_url('book-taxi') ?>" class="default-btn">Book Limo Now</a></li>
+                                <li><a href="<?php echo base_url('book-taxi?type=luxury-suv') ?>" class="default-btn">Book Limo Now</a></li>
                             </ul>
                         </div>
                     </div>
@@ -49,13 +49,13 @@
                                 </div>
                             </div>
                             <div class="pricing-head">
-                                <h3><a href="<?php echo base_url('book-taxi') ?>">Lincoln Navigator</a></h3>
+                                <h3><a href="<?php echo base_url('book-taxi?type=luxury-suv') ?>">Lincoln Navigator</a></h3>
                                 <!--<span class="location">Florida</span>-->
                             </div>
                             <ul class="pricing-list">
                             <li>Luggages: <span>5</span></li>
                                 <li>Passengers: <span>5</span> </li>
-                                <li><a href="<?php echo base_url('book-taxi') ?>" class="default-btn">Book Limo Now</a></li>
+                                <li><a href="<?php echo base_url('book-taxi?type=luxury-suv') ?>" class="default-btn">Book Limo Now</a></li>
                             </ul>
                         </div>
                     </div>
@@ -68,13 +68,13 @@
                                 </div>
                             </div>
                             <div class="pricing-head">
-                                <h3><a href="<?php echo base_url('book-taxi') ?>">Chevrolet Suburban</a></h3>
+                                <h3><a href="<?php echo base_url('book-taxi?type=luxury-suv') ?>">Chevrolet Suburban</a></h3>
                                 
                             </div>
                             <ul class="pricing-list">
                                 <li>Luggages: <span>5</span></li>
                                 <li>Passengers: <span>5</span> </li>
-                                <li><a href="<?php echo base_url('book-taxi') ?>" class="default-btn">Book Limo Now</a></li>
+                                <li><a href="<?php echo base_url('book-taxi?type=luxury-suv') ?>" class="default-btn">Book Limo Now</a></li>
                             </ul>
                         </div>
                     </div>
@@ -92,13 +92,13 @@
                                 </div>
                             </div>
                             <div class="pricing-head">
-                                <h3><a href="<?php echo base_url('book-taxi') ?>">GMC Yukon Denali</a></h3>
+                                <h3><a href="<?php echo base_url('book-taxi?type=luxury-suv') ?>">GMC Yukon Denali</a></h3>
                                
                             </div>
                             <ul class="pricing-list">
                                 <li>Luggages: <span>5</span></li>
                                 <li>Passengers: <span>5</span> </li>
-                                <li><a href="<?php echo base_url('book-taxi') ?>" class="default-btn">Book
+                                <li><a href="<?php echo base_url('book-taxi?type=luxury-suv') ?>" class="default-btn">Book
                                         Limo
                                         Now</a></li>
                             </ul>
@@ -113,13 +113,13 @@
                                 </div>
                             </div>
                             <div class="pricing-head">
-                                <h3><a href="<?php echo base_url('book-taxi') ?>">Ford Expedition Max</a></h3>
+                                <h3><a href="<?php echo base_url('book-taxi?type=luxury-suv') ?>">Ford Expedition Max</a></h3>
                                 
                             </div>
                             <ul class="pricing-list">
                                 <li>Luggages: <span>5</span></li>
                                 <li>Passengers: <span>5</span> </li>
-                                <li><a href="<?php echo base_url('book-taxi') ?>" class="default-btn">Book Limo Now</a></li>
+                                <li><a href="<?php echo base_url('book-taxi?type=luxury-suv') ?>" class="default-btn">Book Limo Now</a></li>
                             </ul>
                         </div>
                     </div>

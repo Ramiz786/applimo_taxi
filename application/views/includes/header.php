@@ -24,7 +24,7 @@
     <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/nice-select.css">
     <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/venobox.min.css">
     <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/swiper.min.css">
-    <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/elements.css">
+    <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/elements.css?<?php echo rand(111,222); ?>">
     <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/header.css">
     <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/slider.css">
     <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/blog.css">
@@ -191,9 +191,9 @@
                         </ul>
                     </div>
                     <div class="menu-right-item">
-                        <div class="search-icon dl-search-icon">
+                        <!-- <div class="search-icon dl-search-icon">
                             <i class="las la-search"></i>
-                        </div>
+                        </div> -->
                         <div class="sidebox-icon dl-sidebox-icon">
                             <i class="las la-bars"></i>
                         </div>
@@ -233,9 +233,7 @@
             <div class="site-logo">
                 <a href="<?php echo base_url(); ?>"><img src="<?php echo BASE_URL; ?>assets/img/logo-light.png" alt="logo" /></a>
             </div>
-            <p>Everything your taxi business needs is
-                already here! American Platinum Limousine, a theme
-                made for taxi service companies.</p>
+            <p><span style="color: #ff9900;"><?php echo WEBSITE_NAME ?></span> <br> Luxury Cars For Any Occasions </p>
             <ul class="sidebox-list">
                 <li class="call"><span>Call for ride:</span><?php echo WEBSITE_NUMBER ?></li>
                 <li>

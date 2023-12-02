@@ -4,8 +4,7 @@
         <div class="page-header-info">
             <h4>Our Limo Lists</h4>
             <h2>Feel your journey <br> with <span>American Platinum Limousine!</span></h2>
-            <p>Everything your taxi business <br>needs
-                is already here! </p>
+            <p>Luxury Cars For Any Occasions </p>
         </div>
     </div>
 </section>
@@ -32,11 +31,11 @@
                     </div>
                 </div>
                 <div class="pricing-head">
-                    <h3><a href="<?php echo base_url('book-taxi') ?>">Mercedes Sprinter (10pax)</a></h3>
+                    <h3><a href="<?php echo base_url('book-taxi?type=party-bus') ?>">Mercedes Sprinter (10pax)</a></h3>
                     <!--<span class="location">Chicago</span>-->
                 </div>
                 <ul class="pricing-list">
-                    <li><a href="<?php echo base_url('book-taxi') ?>" class="default-btn">Book Limo Now</a></li>
+                    <li><a href="<?php echo base_url('book-taxi?type=party-bus') ?>" class="default-btn">Book Limo Now</a></li>
                 </ul>
                 </div>
             </div>
@@ -49,11 +48,11 @@
                 </div>
             </div>
             <div class="pricing-head">
-                <h3><a href="<?php echo base_url('book-taxi') ?>">Mercedes Sprinter (14 pax)</a></h3>
+                <h3><a href="<?php echo base_url('book-taxi?type=party-bus') ?>">Mercedes Sprinter (14 pax)</a></h3>
                 <!--<span class="location">Chicago</span>-->
             </div>
             <ul class="pricing-list">
-                <li><a href="<?php echo base_url('book-taxi') ?>" class="default-btn">Book Limo Now</a></li>
+                <li><a href="<?php echo base_url('book-taxi?type=party-bus') ?>" class="default-btn">Book Limo Now</a></li>
             </ul>
         </div>
     </div>
@@ -66,11 +65,11 @@
             </div>
         </div>
         <div class="pricing-head">
-            <h3><a href="<?php echo base_url('book-taxi') ?>">Ford Transit Executive (15 pax)</a></h3>
+            <h3><a href="<?php echo base_url('book-taxi?type=party-bus') ?>">Ford Transit Executive (15 pax)</a></h3>
             <!--<span class="location">Chicago</span>-->
         </div>
         <ul class="pricing-list">
-            <li><a href="<?php echo base_url('book-taxi') ?>" class="default-btn">Book Limo Now</a></li>
+            <li><a href="<?php echo base_url('book-taxi?type=party-bus') ?>" class="default-btn">Book Limo Now</a></li>
         </ul>
     </div>
     </div>

@@ -84,7 +84,12 @@
     margin-top: -80px;
     z-index: 1
 }
-
+body{
+    background-color: #f0e8d4 !important;
+}
+.sticky-header{
+    background-color:#f0e8d4;
+}
 .about-img:before {
     background-color: #f90;
     border-radius: 2px;
@@ -712,7 +717,7 @@
 }
 
 .booking-section:after {
-    background-color: #f4f5f8;
+    background-color: #efe7d3;
     clip-path: polygon(0 0, 100% 0%, 100% 100%, 25% 100%);
     content: "";
     width: 400px;
@@ -2122,16 +2127,18 @@ textarea:-ms-input-placeholder {
 
 .footer-mid-wrap {
     background-color: #222;
-    background-image: url(../img/texture.png);
+    /* background-image: url(../img/texture.png); */
+    background-image:  url(../img/bg-1.jpg) ;
     background-repeat: repeat;
     background-size: cover;
     padding: 80px 0 140px;
     position: relative;
-    z-index: 1
+    z-index: 1;
 }
 
 .footer-mid-wrap:before {
-    /* background-image: url(../img/city-skiline.png); */
+    background-color:#222222c4 !important;
+    background-image: url(../img/bg-1.png);
     background-size: 100%;
     background-position: bottom center;
     background-repeat: no-repeat;
@@ -2530,7 +2537,8 @@ textarea:-ms-input-placeholder {
 
 .widget_title:after {
     width: 16px;
-    border: 3px solid var(--title-color);
+    border-right: 3px solid #1B1B1B;
+    border-left: 3px solid #1B1B1B;
     height: 10px;
     background-color: transparent;
     bottom: -3px;
@@ -2551,8 +2559,9 @@ textarea:-ms-input-placeholder {
 
 .widget_title:after {
     width: 16px;
-    border: 3px solid #1B1B1B;
-    height: 10px;
+    border-right: 3px solid #1B1B1B;
+    border-left: 3px solid #1B1B1B;
+    height: 8px;
     background-color: transparent;
     bottom: -3px;
     left: 40px;

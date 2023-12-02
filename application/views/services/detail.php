@@ -6,8 +6,7 @@
                                 <div class="page-header-info">
                                         <h4>Service Details!</h4>
                                         <h2>Feel your journey <br> with <span>American Platinum Limousine!</span></h2>
-                                        <p>Everything your taxi business <br>needs
-                                                is already here! </p>
+                                        <p>Luxury Cars For Any Occasions </p>
                                 </div>
                         </div>
                 </section>

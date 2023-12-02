@@ -10,7 +10,7 @@ $BASE_URL = 'http://' . $_SERVER['HTTP_HOST'] . '/taxi_new_/';
 define("DOCUMENT_ROOT", $_SERVER['DOCUMENT_ROOT'] . '/taxi_new_/');
 
 
-define("WEBSITE_NAME", "American Platinum Limousine Taxy");
+define("WEBSITE_NAME", "American Platinum Limousine");
 define("WEBSITE_EMAIL", "info@aplimo_.co");
 define("WEBSITE_NUMBER", "+1 (224) 578-0598");
 define("WEBSITE_ADDRESS", "Chicago");

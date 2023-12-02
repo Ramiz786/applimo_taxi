@@ -15,7 +15,7 @@ class Book_taxi extends CI_Controller
     {
         $data["extra_js"] = array();
         $data['page_title'] = "American Platinum Limousine Taxy";
-
+        $data['type'] = $this->input->get('type');
         $data['main_content'] = 'pages/book_taxi';
         $this->load->view('main_content', $data);
     }

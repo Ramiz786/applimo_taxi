@@ -5,8 +5,7 @@
                                 <div class="page-header-info">
                                         <h4>Service Details!</h4>
                                         <h2>Feel your journey <br> with <span>American Platinum Limousine!</span></h2>
-                                        <p>Everything your taxi business <br>needs
-                                                is already here! </p>
+                                        <p>Luxury Cars For Any Occasions </p>
                                 </div>
                         </div>
                 </section><div class="taxi-booking bg-grey padding">
@@ -30,13 +29,13 @@
                         <div class="form-field">
                             <i class="las la-tags"></i>
                             <select name="package_type" id="package-type" class="niceSelect" style="display: none;">
-                                <option value="Luxury Sedan">Luxury Sedan</option>
-                                <option value="Luxury SUV">Luxury SUV</option>
-                                <option value="Stretch Limousine">Stretch Limousine</option>
-                                <option value="Party & Executive Bus">Party & Executive Bus</option>
-                                <option value="Special Request">Special Request</option>
+                                <option value="Luxury Sedan" <?php echo ($type != '' && $type == 'luxury-sedan') ? 'selected' : ''; ?>>Luxury Sedan</option>
+                                <option value="Luxury SUV" <?php echo ($type != '' && $type == 'luxury-suv') ? 'selected' : ''; ?>>Luxury SUV</option>
+                                <option value="Stretch Limousine" <?php echo ($type != '' && $type == 'stretch-limousine') ? 'selected' : ''; ?>>Stretch Limousine</option>
+                                <option value="Party & Executive Bus" <?php echo ($type != '' && $type == 'party-bus') ? 'selected' : ''; ?>>Party & Executive Bus</option>
+                                <option value="Special Request" <?php echo ($type != '' && $type == 'special-request') ? 'selected' : ''; ?>>Special Request</option>
                             </select>
-                            <div class="nice-select niceSelect" tabindex="0"><span class="current">Luxury Sedan</span>
+                            <!-- <div class="nice-select niceSelect" tabindex="0"><span class="current">Luxury Sedan</span>
                                 <ul class="list">
                                     <li data-value="Luxury Sedan" class="option selected">Luxury Sedan</li>
                                     <li data-value="Luxury SUV" class="option">Luxury SUV</li>
@@ -44,7 +43,7 @@
                                     <li data-value="Party & Executive Bus" class="option">Party & Executive Bus</li>
                                     <li data-value="Special Request" class="option">Special Request</li>
                                 </ul>
-                            </div>
+                            </div> -->
                         </div>
                         <div class="form-field">
                             <i class="las la-user-friends"></i>
