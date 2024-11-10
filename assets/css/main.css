@@ -85,13 +85,15 @@
     z-index: 1
 }
 body{
-    background-color: #f0e8d4 !important;
+    /* background-color: #f0e8d4 !important; */
+    background-color: #000 !important;
 }
 .sticky-header{
-    background-color:#f0e8d4;
+    /* background-color:#f0e8d4; */
+    background-color:#000;
 }
 .about-img:before {
-    background-color: #f90;
+    background-color: #F4ba43;
     border-radius: 2px;
     transform: skew(-20deg, 0deg);
     content: "";
@@ -223,7 +225,7 @@ body{
 }
 
 .video-box .play-btn {
-    background-color: #f90;
+    background-color: #F4ba43;
     width: 70px;
     height: 70px;
     border-radius: 50%;
@@ -393,7 +395,7 @@ body{
 }
 
 .service-shape {
-    background-color: #f90;
+    background-color: #F4ba43;
     border-radius: 2px;
     position: absolute;
     width: 80px;
@@ -469,7 +471,7 @@ body{
 }
 
 .service-content h3 a:hover {
-    color: #f90
+    color: #F4ba43
 }
 
 .service-content p {
@@ -477,7 +479,7 @@ body{
 }
 
 .service-content .read-more {
-    background-color: #f90;
+    background-color: #F4ba43;
     clip-path: polygon(0 0, 100% 0%, 90% 100%, 0% 100%);
     border-radius: 2px;
     font-size: 15px;
@@ -544,7 +546,7 @@ body{
 }
 
 .swiper-outside .swiper-nav:before {
-    background-color: #f90;
+    background-color: #F4ba43;
     content: '';
     width: 100%;
     height: 100%;
@@ -591,7 +593,7 @@ body{
 }
 
 .swiper-pagination span.swiper-pagination-bullet-active {
-    background-color: #f90;
+    background-color: #F4ba43;
     box-shadow: 0 0 0 3px rgba(255, 153, 0, .5)
 }
 
@@ -619,7 +621,7 @@ body{
 
 .service-features li i {
     font-size: 50px;
-    color: #f90
+    color: #F4ba43
 }
 
 .service-features li h3 {
@@ -644,7 +646,7 @@ body{
 
 .service-icon-list li i {
     font-size: 20px;
-    color: #f90
+    color: #F4ba43
 }
 
 .service-icon-list li {
@@ -670,7 +672,7 @@ body{
 }
 
 .service-sidebar ul li:hover {
-    background-color: #f90
+    background-color: #F4ba43
 }
 
 .service-sidebar ul li:not(:last-of-type) {
@@ -688,7 +690,7 @@ body{
 
 .service-sidebar ul li i {
     font-size: 20px;
-    color: #f90
+    color: #F4ba43
 }
 
 .service-sidebar ul li:hover i {
@@ -706,7 +708,7 @@ body{
 }
 
 .booking-section:before {
-    background-color: #f90;
+    background-color: #F4ba43;
     content: "";
     width: 300px;
     height: 100%;
@@ -771,11 +773,11 @@ body{
 }
 
 .booking-form .form-field input:focus {
-    border: 1px solid #f90
+    border: 1px solid #F4ba43
 }
 
 .booking-form .form-field i {
-    color: #f90;
+    color: #F4ba43;
     font-size: 20px;
     position: absolute;
     right: 10px;
@@ -824,7 +826,7 @@ body{
 .nice-select .option:hover,
 .nice-select .option.focus,
 .nice-select .option.selected.focus {
-    background-color: #f90;
+    background-color: #F4ba43;
     font-weight: 400
 }
 
@@ -834,8 +836,8 @@ body{
 
 .xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box>div>div.xdsoft_current,
 .xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_current {
-    background: #f90;
-    box-shadow: #f90 0 1px 3px 0 inset
+    background: #F4ba43;
+    box-shadow: #F4ba43 0 1px 3px 0 inset
 }
 
 .xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box>div>div:hover,
@@ -876,7 +878,7 @@ body{
 }
 
 .booking-car-wrap:before {
-    background-color: #f90;
+    background-color: #F4ba43;
     background-image: repeating-linear-gradient(45deg, #f7a20f 0, #f7a20f 2px, transparent 0, transparent 50%);
     background-size: 10px 10px;
     content: "";
@@ -980,7 +982,7 @@ body{
 }
 
 .pricing-car .price {
-    background-color: #f90;
+    background-color: #F4ba43;
     clip-path: polygon(85% 0%, 100% 30%, 100% 100%, 0 100%, 0 0);
     font-size: 20px;
     font-weight: 700;
@@ -1072,7 +1074,7 @@ body{
 }
 
 .taxi-details-img:before {
-    background-color: #f90;
+    background-color: #F4ba43;
     background-image: repeating-linear-gradient(45deg, #f7a20f 0, #f7a20f 2px, transparent 0, transparent 50%);
     background-size: 10px 10px;
     width: 40%;
@@ -1110,7 +1112,7 @@ body{
 
 .taxi-details-img .price i {
     font-size: 25px;
-    color: #f90;
+    color: #F4ba43;
     margin-right: 5px
 }
 
@@ -1136,7 +1138,7 @@ body{
 }
 
 .taxi-features li span i {
-    color: #f90;
+    color: #F4ba43;
     font-size: 25px;
     margin-right: 5px
 }
@@ -1428,7 +1430,7 @@ body{
 }
 
 .quote-icon {
-    background-color: #f90;
+    background-color: #F4ba43;
     clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
     font-size: 30px;
     color: #222;
@@ -1472,7 +1474,7 @@ body{
 }
 
 .feature-wrap {
-    background-color: #f90;
+    background-color: #F4ba43;
     padding: 110px 40px;
     background-image: repeating-linear-gradient(45deg, #f7a20f 0, #f7a20f 2px, transparent 0, transparent 50%);
     background-size: 10px 10px;
@@ -1540,7 +1542,7 @@ body{
 }
 
 .cta-content .cta-call p a {
-    color: #f90;
+    color: #F4ba43;
     font-size: 32px;
     font-weight: 700;
     line-height: 1
@@ -1553,7 +1555,7 @@ body{
     line-height: 60px;
     text-align: center;
     font-size: 40px;
-    color: #f90;
+    color: #F4ba43;
     border-radius: 2px
 }
 
@@ -1565,7 +1567,7 @@ body{
 }
 
 .cta-content h2 span {
-    color: #f90
+    color: #F4ba43
 }
 
 .cta-content p {
@@ -1581,7 +1583,7 @@ body{
 }
 
 .cta-section-2:before {
-    background-color: #f90;
+    background-color: #F4ba43;
     background-image: url(../img/cta-map.png);
     background-repeat: no-repeat;
     background-position: center center;
@@ -1625,7 +1627,7 @@ body{
     background-color: #222;
     clip-path: polygon(15% 0%, 100% 0%, 85% 100%, 0% 100%);
     font-size: 12px;
-    color: #f90;
+    color: #F4ba43;
     width: 30px;
     height: 20px;
     line-height: 20px;
@@ -1683,7 +1685,7 @@ body{
 }
 
 .team-content h3 a {
-    background-color: #f90;
+    background-color: #F4ba43;
     clip-path: polygon(0 0, 100% 0, 100% 70%, 90% 100%, 0 100%);
     background-image: repeating-linear-gradient(45deg, #f7a20f 0, #f7a20f 2px, transparent 0, transparent 50%);
     background-size: 8px 8px;
@@ -1739,7 +1741,7 @@ body{
 }
 
 .experience-box {
-    background-color: #f90;
+    background-color: #F4ba43;
     background-image: repeating-linear-gradient(45deg, #f7a20f 0, #f7a20f 2px, transparent 0, transparent 50%);
     background-size: 10px 10px;
     padding: 30px;
@@ -1778,7 +1780,7 @@ body{
 }
 
 .taxi-booking-form .form-control:focus {
-    border: 1px solid #f90
+    border: 1px solid #F4ba43
 }
 
 .taxi-booking-form .niceSelect {
@@ -1808,7 +1810,7 @@ body{
 }
 
 .taxi-booking-form .form-field i {
-    color: #f90;
+    color: #F4ba43;
     font-size: 20px;
     position: absolute;
     right: 10px;
@@ -1844,7 +1846,7 @@ body{
 
 .accordion-button:not(.collapsed) {
     color: #fff;
-    background-color: #f90
+    background-color: #F4ba43
 }
 
 .accordion-button:not(.collapsed):after {
@@ -1915,7 +1917,7 @@ body{
     background-image: url(../img/texture.png);
     background-repeat: repeat;
     background-size: cover;
-    color: #f90;
+    color: #F4ba43;
     font-size: 15px;
     margin-right: 15px;
     width: 50px;
@@ -1941,7 +1943,7 @@ body{
 }
 
 .contact-form-group .form-field .form-control:focus {
-    border: 1px solid #f90
+    border: 1px solid #F4ba43
 }
 
 .contact-form-group .form-field.message {
@@ -1998,7 +2000,7 @@ textarea:-ms-input-placeholder {
     font-size: 14px;
     font-weight: 600;
     letter-spacing: 0;
-    background-color: #f90;
+    background-color: #F4ba43;
     color: #fff;
     display: inline-block;
     padding: 3px 15px;
@@ -2015,7 +2017,7 @@ textarea:-ms-input-placeholder {
 
 .branches-list ul li a:hover {
     text-decoration: underline;
-    color: #f90
+    color: #F4ba43
 }
 
 .footer-top-wrap {
@@ -2086,7 +2088,7 @@ textarea:-ms-input-placeholder {
 }
 
 .footer-top .footer-call:before {
-    background-color: #f90;
+    background-color: #F4ba43;
     background-image: repeating-linear-gradient(45deg, #f7a20f 0, #f7a20f 2px, transparent 0, transparent 50%);
     background-size: 10px 10px;
     content: '';
@@ -2220,14 +2222,14 @@ textarea:-ms-input-placeholder {
 
 .footer-contact li span {
     display: block;
-    color: #f90;
+    color: #F4ba43;
     font-size: 14px;
     font-weight: 600;
     text-transform: uppercase
 }
 
 .footer-links li a:hover {
-    color: #f90
+    color: #F4ba43
 }
 
 @media(min-width:992px) {
@@ -2248,7 +2250,7 @@ textarea:-ms-input-placeholder {
 }
 
 .subscribe-form .submit {
-    background-color: #f90;
+    background-color: #F4ba43;
     clip-path: polygon(0 0, 100% 0%, 85% 100%, 0 100%);
     padding: 0 35px 0 30px;
     height: 45px;

@@ -8,7 +8,7 @@
         </div>
     </div>
 </section>
-<section class="driver-details-section bd-bottom padding">
+<section class="driver-details-section bg-grey bd-bottom padding">
     <div class="container">
         <div class="row">
             <div class="col-lg-6">
@@ -17,7 +17,7 @@
                     <h4><span></span>About
                         American Platinum Limousine!</h4>
                     <!-- <h2>Mauricio Fernández</h2> -->
-                    <p>Welcome to American Platinum Limousine, your reliable and efficient partner for all your transportation needs. We take pride in offering a premium taxi booking service, connecting you with comfortable and stylish rides for various occasions. Whether it's a simple point-to-point ride, a business event, a city tour, or a memorable wedding, we have the perfect transportation solution for you.</p><br>
+                    <p>Welcome to American Platinum Limousine, your reliable and efficient partner for all your transportation needs. We take pride in offering a premium Limo booking service, connecting you with comfortable and stylish rides for various occasions. Whether it's a simple point-to-point ride, a business event, a city tour, or a memorable wedding, we have the perfect transportation solution for you.</p><br>
                     <p>At American Platinum Limousine, we pride ourselves on providing seamless and efficient transportation solutions for our valued customers. Our team is dedicated to ensuring you have a safe, comfortable, and enjoyable travel experience. We understand that getting from one place to another should be stress-free, and that's why we are dedicated to exceeding your expectations with our top-notch service.</p>
 
                 </div>
@@ -35,7 +35,7 @@
             </div>
             <div class="col-md-12">
                 <p>Over the years, our commitment to excellence and customer satisfaction has driven our growth. We have expanded our fleet, extended our service areas, and integrated advanced technology to streamline the booking and travel experience. Our professional drivers are the backbone of our service, and they take pride in ensuring your journey is safe, comfortable, and punctual.</p>
-                <p>As we continue to grow, American Platinum Limousine remains committed to providing exceptional service and ensuring that every ride tells a story of comfort, reliability, and satisfaction. We invite you to join us on this journey and experience a new level of taxi service.
+                <p>As we continue to grow, American Platinum Limousine remains committed to providing exceptional service and ensuring that every ride tells a story of comfort, reliability, and satisfaction. We invite you to join us on this journey and experience a new level of Limo service.
                     Thank you for choosing American Platinum Limousine for your transportation needs. We look forward to being your trusted partner on the road.
                 </p>
             </div>
@@ -50,7 +50,7 @@
             
             <ul class="service-features">
                 <li>
-                        <div><i class="las la-taxi"></i></div>
+                        <div><i class="las la-Limo"></i></div>
                         <div>
                             <h3>Our Mission</h3>
                                 <ul class="service-icon-list">
@@ -77,7 +77,7 @@
             
             <ul class="service-features">
                 <li>
-                        <div><i class="las la-taxi"></i></div>
+                        <div><i class="las la-Limo"></i></div>
                         <div>
                             <h3>Our Vision</h3>
                                 <ul class="service-icon-list">
@@ -108,7 +108,7 @@
                         <h3>Our Mission</h3>
                         <p>Everything
                             your
-                            taxi
+                            Limo
                             business
                             needs
                             is
@@ -126,7 +126,7 @@
                             Drive</h3>
                         <p>Everything
                             your
-                            taxi
+                            Limo
                             business
                             needs
                             is
@@ -142,7 +142,7 @@
                             Support</h3>
                         <p>Everything
                             your
-                            taxi
+                            Limo
                             business
                             needs
                             is
@@ -350,22 +350,22 @@
                                                         faq-accordion" id="faq-accordion">
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="headingOne">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">How do I book a taxi through your website?</button>
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">How do I book a Limo through your website?</button>
                         </h2>
                         <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#faq-accordion">
                             <div class="accordion-body">
-                                <p>Booking a taxi is easy! Simply visit our website or use our mobile app, enter your pickup and drop-off locations, select the type of vehicle you need, and confirm your booking. You'll receive instant confirmation details.</p>
+                                <p>Booking a Limo is easy! Simply visit our website or use our mobile app, enter your pickup and drop-off locations, select the type of vehicle you need, and confirm your booking. You'll receive instant confirmation details.</p>
                             </div>
                         </div>
                     </div>
                     
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="headingTwo">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#headingTwo" aria-expanded="false" aria-controls="headingTwo">Can I book a taxi for immediate pickup?</button>
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#headingTwo" aria-expanded="false" aria-controls="headingTwo">Can I book a Limo for immediate pickup?</button>
                         </h2>
                         <div id="headingTwo" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faq-accordion">
                             <div class="accordion-body">
-                                <p>Yes, you can! Our website and app allow you to book a taxi for immediate pickup or schedule a ride for later. We strive to provide flexibility to meet your travel needs.</p>
+                                <p>Yes, you can! Our website and app allow you to book a Limo for immediate pickup or schedule a ride for later. We strive to provide flexibility to meet your travel needs.</p>
                             </div>
                         </div>
                     </div>
@@ -383,7 +383,7 @@
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="headingFour">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">How can I pay for my taxi ride?</button>
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">How can I pay for my Limo ride?</button>
                         </h2>
                         <div id="collapseFour" class="accordion-collapse
                                                                         collapse" aria-labelledby="headingFour" data-bs-parent="#faq-accordion">
@@ -454,7 +454,7 @@
                                                                         fade-in-right" data-wow-delay="400ms">
                             <div class="feature-icon">
                                 <i class="las
-                                                                                        la-taxi"></i>
+                                                                                        la-Limo"></i>
                             </div>
                             <div class="feature-content">
                                 <h3>Fast
@@ -514,7 +514,7 @@
                         Our Company</h4>
                     <h2>Feel the difference
                         and Relaxation
-                        with Ridek Taxi
+                        with Ridek Limo
                         Company!</h2>
                     <p>We successfully cope
                         with tasks of
@@ -537,7 +537,7 @@
                         high–quality
                         finishes and
                         good repairs.
-                        Book your taxi
+                        Book your Limo
                         from anywhare
                         today!</p>
                 </div>
@@ -555,7 +555,7 @@
                     <li>
                         <h2><span>Call
                                 For
-                                Taxi</span><a href="tel:5267214392">5267-214-392</a></h2>
+                                Limo</span><a href="tel:5267214392">5267-214-392</a></h2>
                     </li>
                 </ul>
             </div>
@@ -569,7 +569,7 @@
         <div class="section-heading text-center mb-40">
             <h4><span></span>What We Offer</h4>
             <h2 class="white">Start your journey
-                with<br>Ridek Taxi Company!</h2>
+                with<br>Ridek Limo Company!</h2>
             <p>We successfully cope with tasks of
                 varying complexity, provide
                 long-term <br>guarantees and
@@ -594,7 +594,7 @@
                                         Transport</a></h3>
                                 <p>Everything
                                     your
-                                    taxi
+                                    Limo
                                     business
                                     needs
                                     is
@@ -603,7 +603,7 @@
                                     Ridek
                                     made
                                     for
-                                    taxi
+                                    Limo
                                     service
                                     companies!</p>
                                 <a class="read-more" href="service-details.html">Read
@@ -625,7 +625,7 @@
                                         Transport</a></h3>
                                 <p>Everything
                                     your
-                                    taxi
+                                    Limo
                                     business
                                     needs
                                     is
@@ -634,7 +634,7 @@
                                     Ridek
                                     made
                                     for
-                                    taxi
+                                    Limo
                                     service
                                     companies!</p>
                                 <a class="read-more" href="service-details.html">Read
@@ -656,7 +656,7 @@
                                         Transport</a></h3>
                                 <p>Everything
                                     your
-                                    taxi
+                                    Limo
                                     business
                                     needs
                                     is
@@ -665,7 +665,7 @@
                                     Ridek
                                     made
                                     for
-                                    taxi
+                                    Limo
                                     service
                                     companies!</p>
                                 <a class="read-more" href="service-details.html">Read
@@ -687,7 +687,7 @@
                                         Transport</a></h3>
                                 <p>Everything
                                     your
-                                    taxi
+                                    Limo
                                     business
                                     needs
                                     is
@@ -696,7 +696,7 @@
                                     Ridek
                                     made
                                     for
-                                    taxi
+                                    Limo
                                     service
                                     companies!</p>
                                 <a class="read-more" href="service-details.html">Read
@@ -718,7 +718,7 @@
                                         Transport</a></h3>
                                 <p>Everything
                                     your
-                                    taxi
+                                    Limo
                                     business
                                     needs
                                     is
@@ -727,7 +727,7 @@
                                     Ridek
                                     made
                                     for
-                                    taxi
+                                    Limo
                                     service
                                     companies!</p>
                                 <a class="read-more" href="service-details.html">Read
@@ -986,7 +986,7 @@
                         <li>
                             <div class="feature-icon">
                                 <i class="las
-                                                                                        la-taxi"></i>
+                                                                                        la-Limo"></i>
                             </div>
                             <div class="feature-content">
                                 <h3>Fast
@@ -1103,7 +1103,7 @@
     <div class="cta-men"></div>
     <div class="container">
         <div class="cta-content">
-            <h2>Call Us Now <span>Book Your Taxi</span>
+            <h2>Call Us Now <span>Book Your Limo</span>
                 <br> For Your Next Ride!
             </h2>
             <p>We successfully cope with tasks of
@@ -1112,7 +1112,7 @@
                 technologies.</p>
             <div class="cta-call">
                 <i class="las la-phone-volume"></i>
-                <p><span>Call For Taxi</span><a href="tel:5267214392">5267-214-392</a></p>
+                <p><span>Call For Limo</span><a href="tel:5267214392">5267-214-392</a></p>
             </div>
         </div>
     </div>

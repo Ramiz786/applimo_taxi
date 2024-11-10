@@ -6,8 +6,8 @@ define("HOSTNAME", 'localhost');
 define("USERNAME", "root");
 define("PASSWORD", "");
 define("DATABASE", "taxi");
-$BASE_URL = 'http://' . $_SERVER['HTTP_HOST'] . '/taxi_new_/';
-define("DOCUMENT_ROOT", $_SERVER['DOCUMENT_ROOT'] . '/taxi_new_/');
+$BASE_URL = 'http://' . $_SERVER['HTTP_HOST'] . '/syedHafizulla/applimo_taxi/';
+define("DOCUMENT_ROOT", $_SERVER['DOCUMENT_ROOT'] . '/syedHafizulla/applimo_taxi/');
 
 
 define("WEBSITE_NAME", "American Platinum Limousine");

@@ -8,7 +8,7 @@
                 </div>
         </div>
 </section>
-<section class="our-taxi padding">
+<section class="our-taxi bg-grey padding">
         <div class="container">
                 <div class="row">
                         <p>Choose from our impressive fleet of luxury limousines, each equipped with modern amenities to ensure a first-class experience. From classic stretch limousines to sleek SUV limos, we have the perfect ride for any occasion.</p>

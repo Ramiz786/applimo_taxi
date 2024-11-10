@@ -124,7 +124,7 @@
     </div>
 </div>
 
-<section class="about-section padding">
+<section class="about-section bg-grey padding">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-md-6">

@@ -104,7 +104,7 @@
                                 <div class="sidebar-widget
                                                         banner">
                                         <div class="banner-info">
-                                        <h3 style="background-color: #ff9900; color:#fff;text-align: center;">Please Fill A Form</h3>
+                                                <h3 style="background-color: #ff9900; color:#fff;text-align: center;">Please Fill A Form</h3>
                                                 <div class="contact-form-group">
                                                         <div class="form-field message">
                                                                 <input type="text" id="firstname" name="firstname" class="form-control" placeholder="First

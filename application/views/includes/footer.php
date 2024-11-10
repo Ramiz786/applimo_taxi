@@ -23,7 +23,7 @@
                         </div>
                 </div>
         </div> -->
-        
+
         <div class="z-index-common" data-pos-for=".footer-wrapper" data-sec-pos="bottom-half" style="margin-bottom: -70px;margin-top:-60px;">
                 <div class="container custom_container">
                         <!-- <div class="contact-card background-image" style="background-image: url(<?php echo BASE_URL ?>assets/img/pattern_bg_3.png);"> -->
@@ -64,11 +64,19 @@
 
                                                 </ul>
                                                 <ul class="social-info">
-                                                        <li><div class="social-card_icon"><i class="lab la-facebook-f"></i></div></li>
-                                                        <li><div class="social-card_icon"><i class="lab la-twitter"></i></div></li>
-                                                        <li><div class="social-card_icon"><i class="lab la-instagram"></i></div></li>
-                                                        <li><div class="social-card_icon"><i class="lab la-linkedin"></i></div></li>
-                                                        
+                                                        <li>
+                                                                <div class="social-card_icon"><i class="lab la-facebook-f"></i></div>
+                                                        </li>
+                                                        <li>
+                                                                <div class="social-card_icon"><i class="lab la-twitter"></i></div>
+                                                        </li>
+                                                        <li>
+                                                                <div class="social-card_icon"><i class="lab la-instagram"></i></div>
+                                                        </li>
+                                                        <li>
+                                                                <div class="social-card_icon"><i class="lab la-linkedin"></i></div>
+                                                        </li>
+
                                                 </ul>
                                         </div>
                                 </div>
@@ -105,9 +113,11 @@
                                 <div class="col-lg-3 col-md-6
                                                         sm-padding">
                                         <div class="footer-item">
-                                                
+                                                <div class="widget-title widget_title">
+                                                        <h3>WhatsApp</h3>
+                                                </div>
                                                 <ul class="footer-contact">
-                                                        <li><img src="<?php echo BASE_URL; ?>assets/img/whatsapp.jpeg" width="154" style="margin-left: 30px;"></li>
+                                                        <li><img src="<?php echo BASE_URL; ?>assets/img/whatsapp.jpg" width="154"></li>
                                                 </ul>
                                         </div>
                                 </div>
@@ -178,7 +188,7 @@
 <!-- <script src="<?php echo BASE_URL; ?>assets/js/book-ride.js"></script> -->
 <script src="<?php echo BASE_URL; ?>assets/js/main.js"></script>
 <script src="<?php echo base_url(); ?>assets/plugins/toastr-master/toastr.js" type="text/javascript"></script>
-<script src="<?php echo base_url(); ?>assets/js/custom-for-all.js?<?php echo rand(111,222); ?>"></script>
+<script src="<?php echo base_url(); ?>assets/js/custom-for-all.js?<?php echo rand(111, 222); ?>"></script>
 
 <script>
         var BASE_URL = '<?php echo BASE_URL; ?>'

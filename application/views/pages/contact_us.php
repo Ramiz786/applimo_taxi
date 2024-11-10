@@ -9,7 +9,7 @@
                 </div>
         </div>
 </section>
-<section class="contact-section bd-bottom padding">
+<section class="contact-section  bg-grey bd-bottom padding">
         <div class="map"></div>
         <div class="container">
                 <div class="row">

@@ -14,7 +14,7 @@
     <meta name="description" content="American Platinum Limousine Online Limo Booking">
     <meta name="author" content="DynamicLayers">
     <title><?php echo ($page_title) ? $page_title : WEBSITE_NAME; ?></title>
-    <link rel="shortcut icon" type="image/x-icon" href="<?php echo BASE_URL; ?>assets/img/favicon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="<?php echo BASE_URL; ?>assets/img/_old_logo_new.png">
     <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/animate.min.css">
     <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/fontawesome.min.css">
@@ -25,9 +25,9 @@
     <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/venobox.min.css">
     <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/swiper.min.css">
     <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/elements.css?<?php echo rand(111,222); ?>">
-    <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/header.css">
-    <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/slider.css">
-    <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/blog.css">
+    <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/header.css?<?php echo rand(111,222); ?>">
+    <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/slider.css?<?php echo rand(111,222); ?>">
+    <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/blog.css?<?php echo rand(111,222); ?>">
     <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/main.css?<?php echo rand(111,222); ?>">
     <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/responsive.css">
     <link rel="stylesheet" href="<?php echo base_url('assets/plugins/toastr-master/toastr.css'); ?>">
@@ -60,16 +60,16 @@
                     </div>
                     <div class="top-right">
                         <ul class="top-header-nav">
-                            <li><a href="faqs.html">Help</a></li>
+                            <!-- <li><a href="faqs.html">Help</a></li> -->
                             <li><a href="<?php echo base_url('contact-us') ?>">Support</a></li>
-                            <li><a href="faqs.html">FAQ</a></li>
+                            <li><a href="<?php echo base_url('about-us') ?>">FAQ</a></li>
                         </ul>
-                        <ul class="header-social-share">
+                        <!-- <ul class="header-social-share">
                             <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                             <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                             <li><a href="#"><i class="fab fa-instagram"></i></a></li>
                             <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
-                        </ul>
+                        </ul> -->
                     </div>
                 </div>
             </div>
@@ -78,7 +78,7 @@
             <div class="container">
                 <div class="mid-header-wrap">
                     <div class="site-logo">
-                        <a href="<?php echo base_url(); ?>"><img src="<?php echo BASE_URL; ?>assets/img/logo1-dark.png" alt="Logo"></a>
+                        <a href="<?php echo base_url(); ?>"><img src="<?php echo BASE_URL; ?>assets/img/_old_logo_new.png" alt="Logo"></a>
                     </div>
                     <ul class="header-info">
                         <li>
@@ -113,7 +113,7 @@
             <div class="container">
                 <div class="nav-menu-inner">
                     <div class="site-logo">
-                        <a href="<?php echo base_url(); ?>"><img src="<?php echo BASE_URL; ?>assets/img/logo-dark.png" alt="Logo"></a>
+                        <a href="<?php echo base_url(); ?>"><img src="<?php echo BASE_URL; ?>assets/img/_old_logo_new.png" alt="Logo"></a>
                     </div>
                     <div class="header-menu-wrap">
                         <ul class="nav-menu">
@@ -231,7 +231,7 @@
     <div id="popup-sidebox" class="popup-sidebox">
         <div class="sidebox-content">
             <div class="site-logo">
-                <a href="<?php echo base_url(); ?>"><img src="<?php echo BASE_URL; ?>assets/img/logo-light.png" alt="logo" /></a>
+                <a href="<?php echo base_url(); ?>"><img src="<?php echo BASE_URL; ?>assets/img/_old_logo_new.png" alt="logo" /></a>
             </div>
             <p><span style="color: #ff9900;"><?php echo WEBSITE_NAME ?></span> <br> Luxury Cars For Any Occasions </p>
             <ul class="sidebox-list">
